@@ -200,5 +200,5 @@ The app loads:
 Post Graduate — Data Science & Generative AI | IIT Indore × Intellipaat
 
 - 🔗 GitHub: [@am1t-verma](https://github.com/am1t-verma)
-- 💼 LinkedIn: [linkedin.com/in/am1t-verma](https://www.linkedin.com/in/am1t-verma)
+- 💼 LinkedIn: [linkedin.com/in/am1t-verma](https://www.linkedin.com/in/amitverma-/)
 - 📂 ML Portfolio: [Mechinge-Learning](https://github.com/am1t-verma/Mechinge-Learning)
